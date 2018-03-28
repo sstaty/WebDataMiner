@@ -41,6 +41,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search\BingSearch.cs" />
+    <Compile Include="Search\DuckDuckGoSearch.cs" />
+    <Compile Include="Search\GoogleSearch.cs" />
+    <Compile Include="Search\SearchEngine.cs" />
     <Compile Include="WebSpider.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

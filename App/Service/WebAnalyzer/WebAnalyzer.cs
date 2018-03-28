@@ -1,6 +1,6 @@
 ﻿namespace WebDataMiner.Services.WebAnalyzer
 {
-    class WebAnalyzer
-    {
-    }
+  public sealed class WebAnalyzer
+  {
+  }
 }
